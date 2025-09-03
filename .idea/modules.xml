@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core Java/Core Java.iml" filepath="$PROJECT_DIR$/Core Java/Core Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core Java/OOP/Inheritence/Inheritence.iml" filepath="$PROJECT_DIR$/Core Java/OOP/Inheritence/Inheritence.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFullStack.iml" filepath="$PROJECT_DIR$/.idea/JavaFullStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core Java/OOP/OOP.iml" filepath="$PROJECT_DIR$/Core Java/OOP/OOP.iml" />
     </modules>
